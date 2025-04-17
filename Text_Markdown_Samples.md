@@ -23,7 +23,7 @@ Normal text can be written as is, and image and
 
 <div align="center>
 <p>For text, etc., use &lt;<p></p>&gt; syntax.</p>
-<a href="https://www.espn.com"><em>use &lt;a&gt; for link syntax</a>
+<a href="https://www.espn.com"</a>
 
 <p>For using images,</p>
 <img alt="Sample Image" src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif?cid=82a1493btvovvn0cj4flv8jezb5sxq8vqhnjvpxiypi2oqvt&ep=v1_gifs_trending&rid=giphy.gif&ct=g"> </img>
