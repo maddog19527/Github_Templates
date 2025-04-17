@@ -15,17 +15,34 @@
 This tool allows you to group tools, meaning that you can either place one icon:
 
 -Using markdown
+
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
 -Using HTML
+
 <img alt="html" src="https://skillicons.dev/icons?i=html">
 
 
 ...Or several:
 
+Using Markdown
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 -Using HTML
+
 <img alt="html" src="https://skillicons.dev/icons?i=html,css,js">
+
+
+## Typing.svg
+
+-Using Markdown:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Check+this+out!)](https://git.io/typing-svg)
+
+
+-Using HTML:
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Check+this+out!" alt="Typing SVG" /></a>
