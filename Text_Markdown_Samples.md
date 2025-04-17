@@ -10,7 +10,7 @@
 
 
 
-Normal text can be written as is.
+Normal text can be written as is, and image and 
 
 
 --If you feel that using HTML might allow you greater flexibility:
@@ -23,5 +23,8 @@ Normal text can be written as is.
 
 <div align="center>
 <i>For text, etc., use <i></i> syntax.</i>
-<a href="www.espn.com"><i> use <a> </a> for link syntax</i></a>
+<a href="https://www.espn.com"><i>use &lt;a&gt; for link syntax</i></a>
+
+<i>For using images,</i>
+<img alt="Sample Image" src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif?cid=82a1493btvovvn0cj4flv8jezb5sxq8vqhnjvpxiypi2oqvt&ep=v1_gifs_trending&rid=giphy.gif&ct=g"> </img>
 
