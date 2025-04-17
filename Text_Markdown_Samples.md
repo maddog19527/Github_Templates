@@ -10,10 +10,10 @@
 
 
 
-Normal text can be written as is, and image and 
+Normal text can be written as is.
 
 
---If you feel that using HTML might allow you greater flexibility:
+# HTML syntax, which may allow you more flexibility
 
 ## For using a header:
 
@@ -25,11 +25,25 @@ Normal text can be written as is, and image and
 
 <p>For text, etc., use <code>&lt;p&gt;&lt;/p&gt;</code> syntax.</p>
 
-<p><a href="https://www.espn.com">Use <code>&lt;a&gt;</code> for link syntax</a></p>
+<p><a href="https://www.espn.com">Use a for link syntax</a></p>
 
 <p>For using images:</p>
 <img alt="Sample Image" src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif" width="300"/>
 
+## for creating lists:
+
+<ul>
+  <li>list one</li>
+  <li>list two</li>
+  <li>list three</li>
+</ul>
+
+## placing code 
+<pre><code>
+def print(list):
+  for i in list:
+    print(i)
+</code></pre>
 </div>
 
 
