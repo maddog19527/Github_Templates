@@ -22,7 +22,7 @@ Normal text can be written as is, and image and
 ## For creating a separate section of your page and adding items:
 
 <div align="center>
-<i>For text, etc., use <i></i> syntax.</i>
+<p>For text, etc., use &lt;<p></p>&gt; syntax.</p>
 <a href="https://www.espn.com"><i>use &lt;a&gt; for link syntax</i></a>
 
 <p>For using images,</p>
