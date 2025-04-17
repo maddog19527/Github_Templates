@@ -25,6 +25,6 @@ Normal text can be written as is, and image and
 <i>For text, etc., use <i></i> syntax.</i>
 <a href="https://www.espn.com"><i>use &lt;a&gt; for link syntax</i></a>
 
-<i>For using images,</i>
+<p>For using images,</p>
 <img alt="Sample Image" src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif?cid=82a1493btvovvn0cj4flv8jezb5sxq8vqhnjvpxiypi2oqvt&ep=v1_gifs_trending&rid=giphy.gif&ct=g"> </img>
 
