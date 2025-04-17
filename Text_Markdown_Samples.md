@@ -21,10 +21,15 @@ Normal text can be written as is, and image and
 
 ## For creating a separate section of your page and adding items:
 
-<div align="center>
-<p>For text, etc., use &lt;<p></p>&gt; syntax.</p>
-<a href="https://www.espn.com"></a>
+<div align="center">
 
-<p>For using images,</p>
-<img alt="Sample Image" src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif?cid=82a1493btvovvn0cj4flv8jezb5sxq8vqhnjvpxiypi2oqvt&ep=v1_gifs_trending&rid=giphy.gif&ct=g"> </img>
+<p>For text, etc., use <code>&lt;p&gt;&lt;/p&gt;</code> syntax.</p>
+
+<p><a href="https://www.espn.com">Use <code>&lt;a&gt;</code> for link syntax</a></p>
+
+<p>For using images:</p>
+<img alt="Sample Image" src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif" width="300"/>
+
+</div>
+
 
